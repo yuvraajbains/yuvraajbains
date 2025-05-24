@@ -1,4 +1,4 @@
-## Hi, I'm Yuvraj
+## Hi, my name's Yuvraj Bains
 
 🧠 Software Engineering Student at Carleton University<br/>
 🏒 I played hockey for over 13 years<br/>
