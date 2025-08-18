@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hey, I'm Yuvraj!<br><br>🧠 Software Engineering Student at Carleton University<br/><br>🏒 I played hockey for over 13 years<br/><br>🖌️ I make a lot of desktop apps<br/><br>📱 Make sure to visit my website [Yuvraj Bains](https://www.yuvrajbains.ca/)
+## Hey, I'm Yuvraj!<br><br>🧠 Software Engineering Student at Carleton University<br/><br>🏒 I played hockey for over 13 years<br/><br>🖌️ I create a lot of apps in my freetime<br/><br>📱 Make sure to visit my website [Yuvraj Bains](https://www.yuvrajbains.ca/)
 
 
 ## 🌐 Socials:
